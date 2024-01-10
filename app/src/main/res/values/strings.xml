@@ -3,6 +3,7 @@
 
     <string name="heroes_name">Nama Restaurant</string>
     <string name="author_name">Fernando Sibarani</string>
+    <string name="author_email">fernandosibarani45@gmail.com</string>
 
     <string name="description">Deskripsi</string>
 
@@ -11,25 +12,46 @@
     <string name="title_activity_about">Tentang Pengembang</string>
 
     <string name="title_menu_about">About</string>
+
+    <!-- Restaurant Names -->
     <string-array name="data_name">
-        <item>Melting Pot</item>
-        <item>Kafe Kita</item>
-        <item>Bring Your Phone Cafe</item>
-        <item>Kafein</item>
-        <item>Istana Emas</item>
+        <item>Delicious Haven</item>
+        <item>Spice Junction</item>
+        <item>Sweet Harmony Cafe</item>
+        <item>Fusion Flavors</item>
+        <item>Sizzling Grillhouse</item>
+        <item>Urban Taste Bistro</item>
+        <item>Charming Chefs Kitchen</item>
+        <item>Seafood Delight</item>
+        <item>Golden Wok Express</item>
+        <item>Dessert Dreamland</item>
     </string-array>
+
+    <!-- Restaurant Descriptions -->
     <string-array name="data_description">
-        <item>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.</item>
-        <item>Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</item>
-        <item>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.</item>
-        <item>Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</item>
-        <item>Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</item>
+    <item>
+        Indulge in the extraordinary culinary offerings of Delicious Haven, where each dish is a masterpiece crafted with unparalleled passion and precision. From our appetizing starters to our mouthwatering desserts, our menu takes you on a journey through a world of diverse and delightful flavors that will undoubtedly tantalize your taste buds. Every visit to Delicious Haven is an immersive experience into the realm of exceptional gastronomy, where the ambiance complements the exceptional dishes, creating an unforgettable dining affair that will linger in your memory.</item>
+        <item>Welcome to Spice Junction, a haven for connoisseurs of bold and aromatic flavors. Our chefs skillfully weave together a tapestry of spices, creating dishes that transport you to the heart of culinary excellence. Each bite is a symphony of tastes, combining diverse spices in perfect harmony. Spice Junction is not just a restaurant; it\'s a celebration of spices and their transformative power in the world of gastronomy. Immerse yourself in an unforgettable dining experience where every dish tells a story of culinary mastery and a passion for the art of spice.</item>
+        <item>Sweet Harmony Cafe beckons you to indulge in the sweet side of life. Step into a cozy haven where our delightful desserts and comforting beverages create a symphony of flavors. Our menu is a carefully curated selection of treats that cater to every sweet tooth, from decadent cakes to artisanal pastries. The ambiance at Sweet Harmony Cafe is warm and inviting, providing the perfect backdrop for enjoying life\'s sweet moments. Join us for a journey of sweetness and satisfaction, where each visit promises to be a delightful escape into the world of confectionery delights.</item>
+        <item>Embark on a culinary adventure at Fusion Flavors, where innovation meets tradition. Our chefs artfully blend diverse ingredients to create a menu that showcases the best of global and local cuisines. Every dish is a harmonious fusion of flavors, taking your palate on a journey of discovery. The vibrant and welcoming atmosphere at Fusion Flavors enhances the dining experience, making it a place where food enthusiasts come together to celebrate the art of fusion cuisine. Join us for an exploration of taste and texture, where each bite tells a story of creativity and culinary excellence.</item>
+        <item>Sizzling Grillhouse is your destination for an exceptional grilling experience. Our menu features succulent meats, perfectly seasoned and grilled to perfection, creating a symphony of flavors that will satisfy even the most discerning palate. The vibrant and inviting atmosphere at Sizzling Grillhouse sets the stage for a memorable dining experience, where the sizzle of the grill and the aroma of expertly prepared dishes create a feast for the senses. Immerse yourself in the world of grilled perfection, where each dish is a testament to our commitment to delivering a culinary experience that goes beyond expectations.</item>
+        <item>Urban Taste Bistro invites you to explore the eclectic world of global cuisines and local favorites. Our diverse menu caters to every palate, offering a rich tapestry of flavors that reflect our commitment to culinary excellence. Whether you crave international delights or regional specialties, Urban Taste Bistro is the place where diverse tastes come together in perfect harmony. The welcoming ambiance adds to the overall dining experience, making it a place where food enthusiasts can savor a variety of culinary delights in a vibrant and inviting setting. Join us for a gastronomic journey that transcends borders and celebrates the joy of diverse flavors.</item>
+        <item>Charming Chefs Kitchen is where culinary artistry meets fresh, quality ingredients. Our chefs transform each dish into a masterpiece, showcasing their dedication to the craft of cooking. The menu at Charming Chefs Kitchen is a symphony of flavors, offering a diverse range of dishes that cater to every palate. Step into our inviting space, where the aroma of exquisite dishes and the warm ambiance create a dining experience that is both delightful and memorable. Join us on a culinary journey that celebrates the art of cooking and the joy of savoring exceptional flavors.</item>
+        <item>Seafood Delight is your gateway to a world of oceanic flavors and culinary excellence. Our menu features a delectable selection of seafood dishes, expertly prepared to showcase the freshness and quality of the ingredients. Each bite is a journey into the bountiful depths of the sea, where the richness of flavors and textures come together in perfect harmony. The ambiance at Seafood Delight complements the dining experience, providing a relaxed and inviting atmosphere where seafood enthusiasts can indulge in the finest offerings from the ocean. Join us for a seafood adventure that promises to delight your senses and redefine your expectations of culinary excellence.</item>
+        <item>Golden Wok Express invites you to experience the art of Asian cuisine in a fast-paced and dynamic setting. Our menu features a delectable array of dishes inspired by the flavors of the East, expertly crafted to provide a quick and satisfying dining experience. Each dish is a celebration of wok expertise, showcasing the perfect balance of ingredients and seasonings. The vibrant atmosphere at Golden Wok Express adds to the excitement of the dining experience, making it the go-to destination for those craving the bold and diverse flavors of Asian cuisine. Join us for a journey of culinary discovery where speed meets authenticity, and every bite is a taste of Asia.</item>
+        <item>Dessert Dreamland is where sweet dreams come true. Indulge your senses in a world of delectable desserts and confections, expertly crafted to satisfy the most discerning sweet tooth. Our menu is a celebration of sweetness in all its forms, from rich chocolate delights to delicate pastries. The enchanting ambiance of Dessert Dreamland provides the perfect backdrop for a sweet escape, where every dessert is a masterpiece and every visit is a journey into the realm of sugary delights. Join us for a dessert experience like no other, where each bite is a moment of pure bliss and a celebration of the art of sweet indulgence.</item>
     </string-array>
+
     <integer-array name="data_photo">
-        <item>@drawable/melting_pot</item>
-        <item>@drawable/kafe_kita</item>
-        <item>@drawable/bring_your_phone_cafe</item>
-        <item>@drawable/kafein</item>
-        <item>@drawable/istana_emas</item>
+        <item>@drawable/delicious_haven</item>
+        <item>@drawable/spice_junction</item>
+        <item>@drawable/sweet_harmony_cafe</item>
+        <item>@drawable/fusion_flavors</item>
+        <item>@drawable/sizzling_grillhouse</item>
+        <item>@drawable/urban_taste_bistro</item>
+        <item>@drawable/charming_chefs_kitche</item>
+        <item>@drawable/seafood_delight</item>
+        <item>@drawable/golden_work_express</item>
+        <item>@drawable/dessert_dreamland</item>
     </integer-array>
 </resources>
